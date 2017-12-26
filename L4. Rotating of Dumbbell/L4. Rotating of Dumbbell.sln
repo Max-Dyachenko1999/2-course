@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L4. Rotating of Dumbbell", "L4. Rotating of Dumbbell\L4. Rotating of Dumbbell.vcxproj", "{70DB52A0-7AC1-4E2D-A697-DE4ABDB72588}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L3. Founding Way", "..\L3. Founding Way\L3. Founding Way\L3. Founding Way.vcxproj", "{5ACBDDD6-BC25-4275-81E6-0FFE4E3D11AE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L5. Paralelogram", "..\L5. Paralelogram\L5. Paralelogram\L5. Paralelogram.vcxproj", "{64117931-792E-4700-9218-5A01E947F685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70DB52A0-7AC1-4E2D-A697-DE4ABDB72588}.Debug|Win32.ActiveCfg = Debug|Win32
+		{70DB52A0-7AC1-4E2D-A697-DE4ABDB72588}.Debug|Win32.Build.0 = Debug|Win32
+		{70DB52A0-7AC1-4E2D-A697-DE4ABDB72588}.Release|Win32.ActiveCfg = Release|Win32
+		{70DB52A0-7AC1-4E2D-A697-DE4ABDB72588}.Release|Win32.Build.0 = Release|Win32
+		{5ACBDDD6-BC25-4275-81E6-0FFE4E3D11AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5ACBDDD6-BC25-4275-81E6-0FFE4E3D11AE}.Debug|Win32.Build.0 = Debug|Win32
+		{5ACBDDD6-BC25-4275-81E6-0FFE4E3D11AE}.Release|Win32.ActiveCfg = Release|Win32
+		{5ACBDDD6-BC25-4275-81E6-0FFE4E3D11AE}.Release|Win32.Build.0 = Release|Win32
+		{64117931-792E-4700-9218-5A01E947F685}.Debug|Win32.ActiveCfg = Debug|Win32
+		{64117931-792E-4700-9218-5A01E947F685}.Debug|Win32.Build.0 = Debug|Win32
+		{64117931-792E-4700-9218-5A01E947F685}.Release|Win32.ActiveCfg = Release|Win32
+		{64117931-792E-4700-9218-5A01E947F685}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
